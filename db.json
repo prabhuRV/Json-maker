@@ -1,33 +1,26 @@
 {
-  "cars": [
+  "hotelData": [
     {
-      "id": 1,
-      "brand": "Tata",
-      "year": 2019,
-			"type":"Manual",
-      "kms": 10000,
-      "Description": "Tata Altroz with all original documents",
-      "Price": 500000
+      "type_of_room": "Ac",
+      "category": "family",
+      "bed_type": "single",
+      "booked": false,
+      "image_url": "https://www.google.com/search?q=dummy+profile+pic&sxsrf=ALiCzsYPOdIQv7VA8clcenvNFKLxJLAT_w:1663826250261&tbm=isch&source=iu&ictx=1&vet=1&fir=ksweUyHJewvXXM%252CrmmzhVPJUKwfiM%252C_%253ByKGJHryrONTEwM%252CDNEpz7ZkjOEemM%252C_%253B45OPbIcSWMSyKM%252CxIkDmPYHyTb5IM%252C_%253B41ZQHLy5Y9ltKM%252Cr5g5913bDcrHfM%252C_%253BapKJmpWT0ISnHM%252CqfFuDBLBceql1M%252C_%253BP9Q7ZNJLOEbvvM%252CiSMd7-euh8P1oM%252C_%253BljNZLp3O83-grM%252CqfMF7XMlzdAT6M%252C_%253BpMrX28CdHles2M%252CueZC6RDHSieg7M%252C_%253Bky30ccn_gHov2M%252CCIXM6BOucQSnxM%252C_%253BOYl4xrKHG_npMM%252Ca5A_uBQsvFv9XM%252C_%253BTILLeebc6j6KGM%252C7fDjMXcWsl3KiM%252C_%253BcaMEIbaGKATqAM%252C4BGlPUyJtGe8wM%252C_%253BD0E2NUuQ4CqTzM%252CrmmzhVPJUKwfiM%252C_%253Bq1GGiIIlJbmLRM%252CMtuzm-jLcIMYCM%252C_%253BSofpg1KqP53PMM%252C-slBgN4-DKBo1M%252C_&usg=AI4_-kT9jyg1ycD3gzjbgwefjtYnfRIRnQ&sa=X&ved=2ahUKEwjrl_Xk26f6AhXZgVYBHa6PB94Q9QF6BAgQEAE#imgrc=apKJmpWT0ISnHM",
+      "no_of_persons": "2",
+      "capacity": "4",
+      "cost": "59999",
+      "id": 2
     },
     {
-      "id": 2,
-      "brand": "Tata",
-			"type":"AMT",
-      "year": 2017,
-      "kms": 8000,
-      "Description": "Tata Nexon with all original documents",
-      "Price": 800000
-    }
-  ],
-"wishlisted_cars": [
-    {
-      "id": 1,
-      "brand": "Tata",
-      "year": 2019,
-			"type":"Manual",
-      "kms": 10000,
-      "Description": "Tata Altroz with all original documents",
-      "Price": 500000
+      "type_of_room": "non-Ac",
+      "category": "family",
+      "bed_type": "double",
+      "booked": false,
+      "image_url": "https://www.google.com/search?q=dummy+profile+pic&sxsrf=ALiCzsYPOdIQv7VA8clcenvNFKLxJLAT_w:1663826250261&tbm=isch&source=iu&ictx=1&vet=1&fir=ksweUyHJewvXXM%252CrmmzhVPJUKwfiM%252C_%253ByKGJHryrONTEwM%252CDNEpz7ZkjOEemM%252C_%253B45OPbIcSWMSyKM%252CxIkDmPYHyTb5IM%252C_%253B41ZQHLy5Y9ltKM%252Cr5g5913bDcrHfM%252C_%253BapKJmpWT0ISnHM%252CqfFuDBLBceql1M%252C_%253BP9Q7ZNJLOEbvvM%252CiSMd7-euh8P1oM%252C_%253BljNZLp3O83-grM%252CqfMF7XMlzdAT6M%252C_%253BpMrX28CdHles2M%252CueZC6RDHSieg7M%252C_%253Bky30ccn_gHov2M%252CCIXM6BOucQSnxM%252C_%253BOYl4xrKHG_npMM%252Ca5A_uBQsvFv9XM%252C_%253BTILLeebc6j6KGM%252C7fDjMXcWsl3KiM%252C_%253BcaMEIbaGKATqAM%252C4BGlPUyJtGe8wM%252C_%253BD0E2NUuQ4CqTzM%252CrmmzhVPJUKwfiM%252C_%253Bq1GGiIIlJbmLRM%252CMtuzm-jLcIMYCM%252C_%253BSofpg1KqP53PMM%252C-slBgN4-DKBo1M%252C_&usg=AI4_-kT9jyg1ycD3gzjbgwefjtYnfRIRnQ&sa=X&ved=2ahUKEwjrl_Xk26f6AhXZgVYBHa6PB94Q9QF6BAgQEAE#imgrc=apKJmpWT0ISnHM",
+      "no_of_persons": "2",
+      "capacity": "4",
+      "cost": "69999",
+      "id": 3
     }
   ]
 }
